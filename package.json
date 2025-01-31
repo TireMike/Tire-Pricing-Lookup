@@ -57,20 +57,7 @@
     "tailwind-merge": "^2.5.5",
     "tailwindcss-animate": "^1.0.7",
     "vaul": "^0.9.6",
-    "zod": "^3.24.1",
-    "@emotion/react": "latest",
-    "@emotion/styled": "latest",
-    "@types/react": "latest",
-    "@mui/material-pigment-css": "latest",
-    "@mui/material": "latest",
-    "asn1.js": "latest",
-    "@mui/icons-material": "latest",
-    "react-query": "latest",
-    "@tanstack/react-query": "latest",
-    "axios": "latest",
-    "express": "latest",
-    "snowflake-sdk": "latest",
-    "dotenv": "latest"
+    "zod": "^3.24.1"
   },
   "devDependencies": {
     "@types/node": "^22",
